@@ -1,0 +1,11 @@
+C:\Users\micha\RiderProjects\CortoPractico3\CortoPractico3\bin\Debug\CortoPractico3.exe.config
+C:\Users\micha\RiderProjects\CortoPractico3\CortoPractico3\bin\Debug\CortoPractico3.exe
+C:\Users\micha\RiderProjects\CortoPractico3\CortoPractico3\bin\Debug\CortoPractico3.pdb
+C:\Users\micha\RiderProjects\CortoPractico3\CortoPractico3\obj\Debug\CortoPractico3.csproj.AssemblyReference.cache
+C:\Users\micha\RiderProjects\CortoPractico3\CortoPractico3\obj\Debug\CortoPractico3.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\RiderProjects\CortoPractico3\CortoPractico3\obj\Debug\CortoPractico3.Properties.Resources.resources
+C:\Users\micha\RiderProjects\CortoPractico3\CortoPractico3\obj\Debug\CortoPractico3.csproj.GenerateResource.cache
+C:\Users\micha\RiderProjects\CortoPractico3\CortoPractico3\obj\Debug\CortoPractico3.csproj.CoreCompileInputs.cache
+C:\Users\micha\RiderProjects\CortoPractico3\CortoPractico3\obj\Debug\CortoPractico3.exe
+C:\Users\micha\RiderProjects\CortoPractico3\CortoPractico3\obj\Debug\CortoPractico3.pdb
+C:\Users\micha\RiderProjects\CortoPractico3\CortoPractico3\obj\Debug\CortoPractico3.frmPrincipal.resources
